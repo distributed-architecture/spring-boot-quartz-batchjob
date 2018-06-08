@@ -1,4 +1,4 @@
-package com.dinpay.bc.quartz;
+package com.openmind.bc.quartz;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.dinpay.bc.quartz.jobs;
+package com.openmind.bc.quartz.jobs;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
